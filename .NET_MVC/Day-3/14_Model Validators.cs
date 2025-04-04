@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace .NET_MVC.Day-3
 {
     public class 14_Model Validators
-    {
+    { 
         
     }
 }
