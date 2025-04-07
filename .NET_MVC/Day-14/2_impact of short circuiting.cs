@@ -28,7 +28,7 @@ IActionFilter
 
 IAuthorizationFilter
 
-IResourceFilter
+IResourceFilter 
 
 And in middleware too
 ----------------------------------------------
